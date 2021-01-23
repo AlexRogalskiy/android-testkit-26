@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/universal-bottom-bar.iml" filepath="$PROJECT_DIR$/.idea/universal-bottom-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/universal-bottom-bar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/universal-bottom-bar.app.iml" />
+    </modules>
+  </component>
+</project>
